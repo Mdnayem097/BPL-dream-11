@@ -34,9 +34,8 @@ npm start
 BPL-Dream-11/
 │── public/
 │── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
+│   ├── assets/        # Icons & images
+│   ├── components/    # Reusable components
 │── App.js
 │── index.js
 │── package.json
@@ -45,7 +44,7 @@ BPL-Dream-11/
 🔐 User login system
 🏆 Leaderboard system
 💳 Real payment integration
-📊 Advanced player stats
+📊 Advanced player statistics
 👨‍💻 Developer
 
 Md Nayem
