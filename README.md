@@ -33,12 +33,12 @@ npm start
 📁 Project Structure
 BPL-Dream-11/
 │── public/
-│   ├── data.json
 │── src/
-│   ├── All File
+│   ├── components/
+│   ├── pages/
 │   ├── assets/
-│           ├── All Image
-│── index.html
+│── App.js
+│── index.js
 │── package.json
 │── README.md
 🎯 Future Improvements
