@@ -33,7 +33,7 @@ Users can build their dream team by managing coins and choosing their favorite p
 ## 📦 How to Run Locally
 
 ### 1️⃣ Clone the project
-git clone https://github.com/your-username/BPL-Dream-11.git  
+git clone https://github.com/mdnayem097/BPL-Dream-11.git  
 
 ### 2️⃣ Go to project folder
 cd BPL-Dream-11  
