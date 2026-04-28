@@ -1,16 +1,57 @@
-# React + Vite
+🏏 BPL-Dream-11
+📌 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BPL-Dream-11 is a fantasy cricket web application where users can select and purchase players using virtual coins.
+Users can build their dream team by managing coins and choosing their favorite players.
 
-Currently, two official plugins are available:
+🌐 Live Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://eloquent-platypus-a28866.netlify.app/
 
-## React Compiler
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript (ES6+)
+React.js
+✨ Key Features
+🏏 Player selection system
+💰 Coin-based player purchase system
+👥 Add players to your team
+⚡ Real-time coin update system
+🔍 Player filtering & selection
+📱 Fully responsive design
+🚫 Prevent purchase if coins are insufficient
+📦 How to Run Locally
+1️⃣ Clone the project
+git clone https://github.com/your-username/BPL-Dream-11.git
+2️⃣ Go to project folder
+cd BPL-Dream-11
+3️⃣ Install dependencies
+npm install
+4️⃣ Run the project
+npm start
+📁 Project Structure
+BPL-Dream-11/
+│── public/
+│   ├── data.json
+│── src/
+│   ├── All File
+│   ├── assets/
+│           ├── All Image
+│── index.html
+│── package.json
+│── README.md
+🎯 Future Improvements
+🔐 User login system
+🏆 Leaderboard system
+💳 Real payment integration
+📊 Advanced player stats
+👨‍💻 Developer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Md Nayem
+💻 Frontend Developer (React Enthusiast)
+📍 Dhaka, Bangladesh
 
-## Expanding the ESLint configuration
+⭐ Support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you like this project, don’t forget to ⭐ the repository!
